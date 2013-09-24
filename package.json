@@ -11,8 +11,6 @@
     "redis": "0.8.4"
   },
   "devDependencies": {
-    "superagent": "*",
-    "supertest": "*",
-    "should": "*"
+    "supertest": "*"
   }
 }
