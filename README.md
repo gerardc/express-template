@@ -1,4 +1,8 @@
-### Simple express application template
+## Application express application template
+
+- Coffeescript
+- Reloading app server
+- BDD environment
 
 #### Reloading with Supervisor
 ```
