@@ -1,4 +1,4 @@
 exports.index = (req, res) ->
   res.render "index",
-    title: "nope!"
+    title: "Hello world"
 
