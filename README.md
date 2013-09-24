@@ -1,4 +1,4 @@
-## Application express application template
+## Application template for express.js applications
 
 - Coffeescript
 - Reloading app server
